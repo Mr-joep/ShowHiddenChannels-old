@@ -1,16 +1,19 @@
 /**
  * @name Show-Hidden-Channels-old
- * @author mr-joep
- * @version 1.0
+ * @author Mr_joep
+ * @version 1.1
  * @description Displays all hidden Channels
+ * @website https://mr-joep.nl
+ * @source https://github.com/Mr-joep/ShowHiddenChannels-old
+ * @updateUrl https://raw.githubusercontent.com/Mr-joep/ShowHiddenChannels-old/main/Show-Hidden-Channels-old.plugin.js
  */
 
 module.exports = (_ => {
 	const config = {
 		"info": {
 			"name": "Show-Hidden-Channels-old",
-			"author": "mr-joep",
-			"version": "1.0",
+			"author": "Mr_joep",
+			"version": "1.1",
 			"description": "Displays all hidden Channels"
 		}
 	};
